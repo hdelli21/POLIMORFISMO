@@ -1,4 +1,4 @@
-#POLIMORFISMO
+POLIMORFISMO
 
 Este projeto implementa uma hierarquia de classes com um método polimórfico enviarEmail. O método recebe o corpo de uma mensagem e acrescenta uma saudação personalizada de acordo com o tipo do objeto, como:
 
